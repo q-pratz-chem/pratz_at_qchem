@@ -15,9 +15,9 @@ author: Pratiksha B Gaikwad
 
 navbar-links:
   About Me: "Hello everyone! I am Pratiksha (means 'to wait' in Hindi language). I'm a first year grad student at University of Florida. "
-  #Resources:
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Research:
+    - Internships: "https://beautifuljekyll.com"
+    - Projects: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #

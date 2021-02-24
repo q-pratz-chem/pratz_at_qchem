@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Pratiksha's website
 
 # Your name to show in the footer
-author: Some Person
+author: Pratiksha B Gaikwad
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Hello everyone! I am Pratiksha (means 'to wait' in Hindi language). I'm a first year grad student at University of Florida. "
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

@@ -15,12 +15,13 @@ author: Pratiksha B Gaikwad
 
 navbar-links:
   About Me: "Hello everyone! I am Pratiksha (means 'to wait' in Hindi language). I'm a first year grad student at University of Florida. "
-  #Education: "https://q-pratz-chem.github.io/education"
+     - Education: "https://q-pratz-chem.github.io/education"
+     - Skills: "https://q-pratz-chem.github.io/skills"
+     - Awards: "https://q-pratz-chem.github.io/awards"
   Research Projects: "https://q-pratz-chem.github.io/resarch_project"
-  #Skills: "https://q-pratz-chem.github.io/skills"
   Internships: "https://q-pratz-chem.github.io/internships"
   Presentations: "https://q-pratz-chem.github.io/presentations"
-  Awards: "https://q-pratz-chem.github.io/awards"
+  
   Gallary: "https://q-pratz-chem.github.io/gallary"
   
   #Author's home: "https://deanattali.com"

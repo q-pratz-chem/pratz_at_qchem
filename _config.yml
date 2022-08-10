@@ -15,9 +15,9 @@ author: Pratiksha B Gaikwad
 
 navbar-links:
   About Me: "Hello everyone! I am Pratiksha (means 'to wait' in Hindi language). I'm a first year grad student at University of Florida. "
-  Education: "https://q-pratz-chem.github.io/education"
+  #Education: "https://q-pratz-chem.github.io/education"
   Research Projects: "https://q-pratz-chem.github.io/resarch_project"
-  Skills: "https://q-pratz-chem.github.io/skills"
+  #Skills: "https://q-pratz-chem.github.io/skills"
   Internships: "https://q-pratz-chem.github.io/internships"
   Presentations: "https://q-pratz-chem.github.io/presentations"
   Awards: "https://q-pratz-chem.github.io/awards"
@@ -36,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/Image Photo ID.jpg"
 
 
 # --- Footer social media links --- #
